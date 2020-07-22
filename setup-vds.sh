@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 ##List of needed utilities on vds machine:
 ##1. Git
 ##2. Wget
