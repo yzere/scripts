@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 ##Prompt user for distro of mc
 echo Choose distro:
 echo 1 vanilla
